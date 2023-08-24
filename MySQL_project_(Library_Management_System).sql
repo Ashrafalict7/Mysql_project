@@ -425,8 +425,7 @@ ON BRC.Manager_Id = EMP.Emp_Id
 GROUP BY BRC.Branch_no HAVING Employee_Count > 5;
 #
 # Output "Branch" + "Employee" table --
-# Branch_no___Em ployee_Count
+# Branch_no___Employee_Count
 #
 #
 # --------------------------------------------------------------------------------------------------------------------------------------------------
-#
